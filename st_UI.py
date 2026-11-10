@@ -2,7 +2,7 @@
 import streamlit as st
 import uuid
 
-from chat import get_chat_response
+from app.chatbot import get_chat_response
 
 
 # --------------------------------
