@@ -201,4 +201,5 @@ This project does not currently include a dedicated license file in the reposito
 Zentra is a compact conversational AI starter project combining a Python backend, a React frontend, and a LangGraph-powered LLM workflow. It is suitable for learning, prototyping, and extending into a more advanced AI assistant application.
 
 
+#Zentra
 A central hub for conversations.
